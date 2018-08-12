@@ -8,33 +8,32 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+#[interests]
+#  interests = [
+#    "Artificial Intelligence",
+#    "Computational Linguistics",
+#    "Information Retrieval"
+#  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
-# Biography
+# Note: Website under construction.  My current website is [here](http://www.stat.washington.edu/~tylermc).  I'm working from the awesome [Academic Theme](https://sourcethemes.com/academic/) and modifying content gradually.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently an Associate Professor of [Statistics](http://www.stat.washington.edu/) and [Sociology](https://soc.washington.edu/) at the [University of Washington](http://www.uw.edu).  I'm also a core faculty member in the [Center for Statistics and the Social Sciences](http://csss.washington.edu/) and a Senior Data Science Fellow at the [eScience Institute](http://escience.washington.edu/).  I'm also the Editor-elect for the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
