@@ -21,6 +21,6 @@ linktitle = "dma"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-### test
+This package implements dynamic Bayesian model averaging as described for continuous outcomes in Raftery et al. (2010, Technometrics) and for binary outcomes in [McCormick et al. (2012, Biometrics)](http://www.stat.washington.edu/~tylermc/pubs/mccormick_dma.pdf).
 
-...
++ [CRAN](http://cran.stat.ucla.edu/web/packages/dma/)

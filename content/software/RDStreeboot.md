@@ -20,7 +20,6 @@ linktitle = "RDStreeboot"
 # image = "headers/getting-started.png"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
+A tree bootstrap method for estimating uncertainty in respondent-driven samples (RDS). Quantiles are estimated by multilevel resampling in such a way that preserves the dependencies of and accounts for the high variability of the RDS process.
 
-### test
-
-...
++ [CRAN](https://cran.r-project.org/web/packages/RDStreeboot/index.html)

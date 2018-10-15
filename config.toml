@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://thmccormick.github.io/"
 
 # Title of your site
 title = "Tyler H. McCormick"
@@ -293,7 +293,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Teaching & mentoring"
   url = "teaching/teaching"
   weight = 5
 

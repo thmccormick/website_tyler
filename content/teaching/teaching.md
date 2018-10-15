@@ -4,6 +4,10 @@ subtitle = ""
 date = ""
 weight = 5
 +++
+#### Postdoctoral scholars
++ [Gwen Eadie](https://www.physics.mcmaster.ca/~eadiegm/cover.html), 2017-
++ [Tim Thomas](https://timathomas.github.io/), 2017-
++ [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University
 
 #### Ph.D. Students
 + [Zehang (Richard) Li, Ph.D.](http://zehangli.com/) (2018, currently postdoctoral scholar at Yale Biostatistics)
@@ -13,7 +17,7 @@ weight = 5
 
 
 #### Masters and Undergraduate students
-+ [Alina Arseniev-Koehler](https://soc.ucla.edu/grads/alina-arseniev-koehler), Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.
++ [Alina Arseniev-Koehler](https://soc.ucla.edu/grads/alina-arseniev-koehler), UW Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.
 + [Harrison Reeder](https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/), Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics
 
 

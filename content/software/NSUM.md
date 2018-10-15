@@ -21,6 +21,6 @@ linktitle = "NSUM"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-### test
+A Bayesian framework for population group size estimation using the Network Scale Up Method (NSUM). Size estimates are based on a random degree model and include options to adjust for barrier and transmission effects.
 
-...
++ [CRAN](https://cran.r-project.org/web/packages/NSUM/index.html)

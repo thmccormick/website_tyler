@@ -21,6 +21,7 @@ linktitle = "InterVA"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-### test
+Provides an R version of the ['InterVA' software](http://www.interva.net) for coding cause of death from verbal autopsies. It also provides simple graphical representation of individual and population level statistics.  Implementations are available for both InterVA version 4 and InterVA version 5.
 
-...
++ [InterVA4](http://cran.stat.ucla.edu/web/packages/InterVA4/)
++ [InterVA5](http://cran.stat.ucla.edu/web/packages/InterVA5/)
