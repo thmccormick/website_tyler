@@ -28,4 +28,4 @@ weight = 5
 + Stat/Soc/CSSS 536 [Categorical data analysis](http://www.stat.washington.edu/~tylermc/syllabus_536_f13.pdf)
 + Stat/CSSS 502 Applied statistics and experimental design (graduate and undergraduate) 
 + Introductory Statistics (at Columbia University)
-+ Introductory Statistics (at the University of Connecticut, 2 Sections)
++ Introductory Statistics (at the University of Connecticut)
