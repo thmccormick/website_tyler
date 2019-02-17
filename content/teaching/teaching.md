@@ -16,16 +16,15 @@ weight = 5
 + [Wesley Lee](https://www.stat.washington.edu/people/wtlee/), current statistics Ph.D. student
 
 
-#### Masters and Undergraduate students
+#### Masters and undergraduate students
 + [Alina Arseniev-Koehler](https://soc.ucla.edu/grads/alina-arseniev-koehler), UW Sociology undergraduate thesis, now Ph.D. candidate at UCLA Sociology.
 + [Harrison Reeder](https://www.hsph.harvard.edu/biostatistics/tag/harrison-reeder/), Carleton summer undergraduate visitor, now Ph.D. candidate at Harvard Biostatistics
 
 
-#### Courses
+#### Selected courses
 + Stat/Soc/CSSS 221 [Introduction to statistics for social sciences](https://docs.google.com/document/d/1wLRowIehGM1w-i4l4qaMerYgEhL0wpS__r_fbvwHeww/edit?usp=sharing)
 + Soc 506/CSSS 507 [Quantitative methods in sociology](http://www.stat.washington.edu/~tylermc/soc506sp15/schedule_2015.htm)
 + Stat/Soc/CSSS 321 [Case-based social statistics](http://www.stat.washington.edu/~tylermc/syllabus_321aut13.pdf)
 + Stat/Soc/CSSS 536 [Categorical data analysis](http://www.stat.washington.edu/~tylermc/syllabus_536_f13.pdf)
++ Stat 302 Statistical Software and Its Applications
 + Stat/CSSS 502 Applied statistics and experimental design (graduate and undergraduate) 
-+ Introductory Statistics (at Columbia University)
-+ Introductory Statistics (at the University of Connecticut)
