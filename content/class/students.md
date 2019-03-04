@@ -32,7 +32,7 @@ caption = ""
 
 <img src = "/img/network.png", width = "850">
 
-I'm eager to work with student and postdoctoral collaborators! Thanks for your interest!  If you don't see what you're looking for here please get in touch.
+I'm eager to work with student and postdoctoral collaborators! Thanks for your interest!  If you have further questions after checking out the information below please get in touch.
 <br>
 <br>
 ## Undergraduate, Masters, and visiting students
