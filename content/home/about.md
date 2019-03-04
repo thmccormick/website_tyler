@@ -40,3 +40,5 @@ weight = 1
 I'm currently an Associate Professor of [Statistics](http://www.stat.washington.edu/) and [Sociology](https://soc.washington.edu/) at the [University of Washington](http://www.uw.edu).  I'm also a core faculty member in the [Center for Statistics and the Social Sciences](http://csss.washington.edu/) and a Senior Data Science Fellow at the [eScience Institute](http://escience.washington.edu/).  
 <br>
 I'm also the Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20).
+<br><br>
+If you're interested in working with me please see [here](https://thmccormick.github.io/class/students/) for more information.
