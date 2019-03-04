@@ -4,6 +4,9 @@ subtitle = ""
 date = ""
 weight = 5
 +++
+
+If you're interested in working with me please see [here](https://thmccormick.github.io/class/students/) for more information.
+<br>
 #### Postdoctoral scholars
 + [Gwen Eadie](https://www.physics.mcmaster.ca/~eadiegm/cover.html), 2017-
 + [Tim Thomas](https://timathomas.github.io/), 2017-
