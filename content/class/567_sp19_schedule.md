@@ -68,7 +68,7 @@ approach,” Social Networks 25:2: 103-140.]
 	+ McPherson, Miller, Lynn Smith-Lovin, and James M. Cook. 2001. ‘‘[Birds of a
 	Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.415).’’ Annual Review of Sociology 27:415-44
 	+ Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). [The value of reputation on eBay: A controlled experiment](http://dx.doi.org/10.1007/s10683-006-4309-2). Experimental Economics, 9:79-101.
-	+ Lab: RStudio & Github; SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)
++ Lab: RStudio & Github; SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)
 
 
 #### Week 3 Modeling connections 
@@ -158,6 +158,7 @@ of Sociology 37:131-153
 using Mobile Phone Data", Proceedings of the National Academy of Sciences
 (PNAS).
 + Presentation readings:
+	+ Narayanan, A., Shi, E., & Rubinstein, B. I. (2011, July). [Link prediction by de-anonymization: How we won the kaggle social network challenge](https://arxiv.org/pdf/1102.4374). In The 2011 International Joint Conference on Neural Networks (pp. 1825-1834). IEEE.
 	+ Dodds, P. S., Muhamad, R., and Watts, D. J. (2003). [An experimental study of search in global social networks](http://dx.doi.org/10.1126/science.1081058). Science, 301:827-829
 	+ Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](http://dx.doi.org/10.1126/science.1121066). Science, 311:854-856 (also read supporting online materials).
 	+ Kossinets, G., & Watts, D. J. (2009). [Origins of homophily in an evolving social network](https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ). *American Journal of Sociology*, 115(2), 405-450.
