@@ -36,7 +36,7 @@ I'm eager to work with student and postdoctoral collaborators! Thanks for your i
 <br>
 <br>
 ## Undergraduate, Masters, and visiting students
-The first step in the process is to take a look around my website to see the kind of work I do and see what you find interesting.  Once you've done that, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZLbfNFG2tADlTe9nbLMB8f4HmBKJ-aWEfWyAZXP-n0FAfAQ/viewform?usp=sf_link) to get in touch.  Please note that availability of positions changes frequently, so when I have a position available I will get in touch with individuals based on interests expressed in the form.  I regret that I'm typically not able to answer individual queries over email.  
+The first step in the process is to take a look around my website to see the kind of work I do and see what you find interesting.  Once you've done that, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZLbfNFG2tADlTe9nbLMB8f4HmBKJ-aWEfWyAZXP-n0FAfAQ/viewform?usp=sf_link) to get in touch.  Please note that availability of positions changes frequently, so when I have a position available I will get in touch with individuals based on interests expressed in the form.  
 <br>
 <br>
 ## Doctoral students
