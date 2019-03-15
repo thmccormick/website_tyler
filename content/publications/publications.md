@@ -5,7 +5,7 @@ date = ""
 weight = 3
 +++
 
-+ Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2019+). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics*. [code](https://github.com/kunihama/VA-code.)
++ Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2019+). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics*. [code](https://github.com/kunihama/VA-code)
 
 + Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). [Multiresolution network models](http://arxiv.org/abs/1608.07618). To appear, *Journal of Computational and Graphical Statistics*. [code](https://github.com/tedwestling/multiresolution_networks) [slides](https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf) 
 
