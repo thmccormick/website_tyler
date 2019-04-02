@@ -31,7 +31,7 @@ caption = ""
 +++
 
 
-## Stat/CSSS 566 
+## Stat/CSSS 567
 ## Spring 2019, University of Washington
 
 [Main page](https://thmccormick.github.io/class/567_sp19/)

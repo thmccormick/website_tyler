@@ -8,7 +8,8 @@ weight = 2
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
-+ [Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063)
++ 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136)
++	[Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063)
 + [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051)
 + [Quantifying the contributions of training data and algorithm logic to the performance of automated cause-assignment algorithms for verbal autopsy](https://arxiv.org/abs/1803.07141)
 + [Bayesian latent Gaussian graphical models for mixed data with marginal prior information](https://arxiv.org/abs/1711.00877) 
