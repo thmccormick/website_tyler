@@ -5,6 +5,9 @@ date = ""
 weight = 3
 +++
 
++ Li, Z. R., & McCormick, T. H. (2019+). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). To appear, *Journal of Computational and Graphical Statistics*. [code](https://
+github.com/richardli/EMGS)
+
 + Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2019+). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics*. [code](https://github.com/kunihama/VA-code)
 
 + Eadie, G., Huppenkothen, D., Springford, E., & McCormick, T. H. (2019+). Introducing Bayesian Analysis with m&m’s: an active-learning exercise for undergraduates. To appear, *Journal of Statistics Education*. [code](https://github.com/gweneadie/BayesianMandMs)
