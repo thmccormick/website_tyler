@@ -82,6 +82,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 + Lab: SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)  
 
 #### Week 4 Modeling connections (Week of Apr 22)
++ *Note* Homework 1 due April 25.
 + SAND chapter 6
 + Class reading
 	+ Holland, P. W., Laskey, K., and Leinhardt, S. [Stochastic blockmodels: First steps](https://www.sciencedirect.com/science/article/pii/0378873383900217). Social networks 5, no. 2 (1983): 109-137.
