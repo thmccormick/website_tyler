@@ -43,6 +43,7 @@ caption = ""
  
 
 #### Week 1 Overview & properties of graphs (Week of Apr 1)
++ [Slides](https://docs.google.com/presentation/d/17f22NrGLs0BcbW6CPqJ4azut0s4c-E9txxNm2GSh4G8/edit?usp=sharing)
 + SAND chapter 1 & 2
 + Readings:
 	+ Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892). Science, 323(5916), 892-895.
@@ -56,6 +57,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: Introduction to RStudio & Github, SANDr chapter 1 
 
 #### Week 2 Local & global properties of graphs (Week of Apr 8)
++ [Slides](https://docs.google.com/presentation/d/1k1DbYkkCn3wW52WZ4dJ3r9r4_m2edX2HrL_qxN5s_ec/edit?usp=sharing)
 + SAND chapter 3 & 4 
 + Readings:
 	+ Smith, S. (2005). "[Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor](https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj). *American Journal of Sociology*, 111(1), 1-57.
@@ -71,6 +73,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 3 Modeling connections (Week of Apr 15) 
++ [Slides](https://docs.google.com/presentation/d/1oBxN0fl8JEzn0Gk0uGSEoeDG01yFjRdnNzfhPNb4tTE/edit?usp=sharing)
 + SAND chapter 6
 + Readings:
 	+ D Krackhardt (1988). [Predicting with networks: Nonparametric multiple regression analysis of dyadic data](https://www.sciencedirect.com/science/article/pii/0378873388900044).
@@ -83,6 +86,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 
 #### Week 4 Modeling connections (Week of Apr 22)
 + *Note* Homework 1 due April 25.
++ [Slides](https://docs.google.com/presentation/d/1G7RXSL6Pe60ucSCBdvhm7e416Q5aqjjCLaR5pR1t_Do/edit?usp=sharing)
 + SAND chapter 6
 + Class reading
 	+ Holland, P. W., Laskey, K., and Leinhardt, S. [Stochastic blockmodels: First steps](https://www.sciencedirect.com/science/article/pii/0378873383900217). Social networks 5, no. 2 (1983): 109-137.
@@ -98,6 +102,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 + Lab: Continue SANDr chapter 5 (Mathematical models for graphs) 
 
 #### Week 5 Modeling connections (Week of Apr 29)
++ [Slides](https://docs.google.com/presentation/d/15Hv6K0-JnvwNLGi6_FxhacJqAXJHTtitZSElE0AitQs/edit?usp=sharing)
 + Class reading
 	+ Robins, G. et al (2006) “[An introduction to exponential random graph (p*) models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000372)” Social Networks p173-191
 	+ Hunter, D. R., Krivitsky, P. N., & Schweinberger, M. (2012). [Computational statistical methods for social network models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697157/). Journal of Computational and Graphical Statistics, 21(4), 856-882.
