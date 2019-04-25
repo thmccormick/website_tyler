@@ -5,6 +5,8 @@ date = ""
 weight = 3
 +++
 
++ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051) In *Proceedings of the 35th International Conference on Machine Learning (ICML)*.
+
 + Li, Z. R., & McCormick, T. H. (2019+). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). To appear, *Journal of Computational and Graphical Statistics*. [code](https://
 github.com/richardli/EMGS)
 
