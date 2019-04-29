@@ -99,7 +99,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 	+ Ward, M. D., Siverson, R. M., & Cao, X. (2007). [Disputes, democracies, and dependencies: A reexamination of the Kantian peace](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2007.00269.x). *American Journal of Political Science*, 51(3), 583-601.
 	+ Barberá, P. (2015). [Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A). *Political Analysis*, 23(1), 76-91.
 	+ Airoldi, E. M., Blei, D. M., Fienberg, S. E., & Xing, E. P. (2008). [Mixed membership stochastic blockmodels](http://www.jmlr.org/papers/v9/airoldi08a.html). Journal of Machine Learning Research, 9(Sep), 1981-2014.
-+ Lab: Continue SANDr chapter 5 (Mathematical models for graphs) 
++ Lab: Latent variable models for graphs with *latentnet* 
 
 #### Week 5 Modeling connections (Week of Apr 29)
 + [Slides](https://docs.google.com/presentation/d/15Hv6K0-JnvwNLGi6_FxhacJqAXJHTtitZSElE0AitQs/edit?usp=sharing)
@@ -111,7 +111,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
  	+ Schweinberger, M. (2011). [Instability, sensitivity, and degeneracy of discrete exponential families](https://www.tandfonline.com/doi/pdf/10.1198/jasa.2011.tm10747?casa_token=TmWjfZ5tS8oAAAAA:hVu1S_m4A9XzPC35RAkJCLCDFynEv9TbIf1AYSOrZEmlDUF_wtDFgauKOBKyILwfORDg6wkUeBt_yA). *Journal of the American Statistical Association*, 106(496), 1361-1370.  *Note*: This is a more technical reading.
 	+ Shalizi, C. R., & Rinaldo, A. (2013). [Consistency under sampling of exponential random graph models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498414/). *Annals of Statistics*, 41(2), 508. *Note*: This is a more technical reading.
 	+ Mouw, T., & Entwisle, B. (2006). [Residential segregation and interracial friendship in schools](https://www.jstor.org/stable/pdf/10.1086/506415.pdf?casa_token=mLKLA4FwpxcAAAAA:ij-xIBnuqM4Boi1Nwe436HQ5QZyyreeCS-eZN6S8vu0KHFAVU7m5u4u0JXOKpTdIWNw2heSPGe1CTNQZ6N3i0Ezm5axLIh-7HXOvbRnwHfyH91YyEQ). *American Journal of Sociology*, 112(2), 394-441.
-+ Lab: SANDr chapter 6 (Statistical Models for Network Graphs)
++ Lab: SANDr chapter 6 (Statistical Models for Network Graphs, ERGMs)
 
 
  
@@ -172,7 +172,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 	+ Goel, S., Watts, D. J., & Goldstein, D. G. (2012, June). [The structure of online diffusion networks](https://dl.acm.org/citation.cfm?id=2229058). In *Proceedings of the 13th ACM conference on electronic commerce* (pp. 623-638). ACM.
 	+ Eagle, N., Pentland, A. S., & Lazer, D. (2009). [Inferring friendship network structure by using mobile phone data](https://www.pnas.org/content/106/36/15274). *Proceedings of the National Academy of Sciences*, 106(36), 15274-15278.
 + Presentation readings: **No Class on May 30.**  We will do presentations Tuesday, June 4.
-+ Lab: Scrape some data
++ Lab: Scrape data using [*rtweet*](https://rtweet.info/).
 
 #### Week 10 (Week of June 3)
 + Presentation readings from ``big data'' readings:
@@ -180,7 +180,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 	+ Dodds, P. S., Muhamad, R., and Watts, D. J. (2003). [An experimental study of search in global social networks](http://dx.doi.org/10.1126/science.1081058). Science, 301:827-829
 	+ Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](http://dx.doi.org/10.1126/science.1121066). Science, 311:854-856 (also read supporting online materials).
 	+ Kossinets, G., & Watts, D. J. (2009). [Origins of homophily in an evolving social network](https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ). *American Journal of Sociology*, 115(2), 405-450.
-+ Thursday: No class; attend Stat/CSSS poster session.
++ Thursday: Final poster session.
 + No lab.
 + Info about printing posters (to be added)
 
