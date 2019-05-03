@@ -182,5 +182,5 @@ https://web.stanford.edu/~arungc/CL.pdf)
 	+ Kossinets, G., & Watts, D. J. (2009). [Origins of homophily in an evolving social network](https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ). *American Journal of Sociology*, 115(2), 405-450.
 + Thursday: Final poster session.
 + No lab.
-+ Info about printing posters (to be added)
++ [Instructions for printing posters](http://depts.washington.edu/csscr/posters/).  **Note:** CSSCR requires that posters be submitted at least one day in advance. 
 
