@@ -136,6 +136,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 + Lab: Hoff (2016). “[Dyadic data analysis with amen](https://arxiv.org/pdf/1506.08237.pdf)”
 
 #### Week 7 Peer influence & spillovers (Week of May 13) 
++ [Slides](https://docs.google.com/presentation/d/1k9wBQoQvCllfrMvRbgulhD5AwAfspppWvrI4K2x9lBQ/edit?usp=sharing)
 + Readings
 	+ Angrist, J. D. (2014). [The perils of peer effects](https://www.sciencedirect.com/science/article/abs/pii/S0927537114000712). *Labour Economics*, 30, 98-108.
 	+ Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From natural variation to optimal policy? The importance of endogenous peer group formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica*, 81(3), 855-882.
