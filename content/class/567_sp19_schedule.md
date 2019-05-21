@@ -153,6 +153,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 
 
 #### Week 8 Collecting network data (Week of May 20)
++ [Slides](https://docs.google.com/presentation/d/16DSGTBhQ3oE01X-p_Wx1iAmYXfDGbAGlsrPoIIdFgrk/edit?usp=sharing)
 + SAND chapter 5
 + Class readings
 	+ Breza, E., Chandrasekhar, A. G., McCormick, T. H., & Pan, M. (2017). [Using aggregated relational data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157) (No. w23491). *National Bureau of Economic Research*.
@@ -178,7 +179,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 
 #### Week 10 (Week of June 3)
 + Presentation readings from ``big data'' readings:
-	+ Narayanan, A., Shi, E., & Rubinstein, B. I. (2011, July). [Link prediction by de-anonymization: How we won the kaggle social network challenge](https://arxiv.org/pdf/1102.4374). In The 2011 International Joint Conference on Neural Networks (pp. 1825-1834). IEEE.
+	+ Narayanan, A., Shi, E., & Rubinstein, B. I. (2011). [Link prediction by de-anonymization: How we won the kaggle social network challenge](https://arxiv.org/pdf/1102.4374). In The 2011 International Joint Conference on Neural Networks (pp. 1825-1834). IEEE.
 	+ Dodds, P. S., Muhamad, R., and Watts, D. J. (2003). [An experimental study of search in global social networks](http://dx.doi.org/10.1126/science.1081058). Science, 301:827-829
 	+ Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](http://dx.doi.org/10.1126/science.1121066). Science, 311:854-856 (also read supporting online materials).
 	+ Kossinets, G., & Watts, D. J. (2009). [Origins of homophily in an evolving social network](https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ). *American Journal of Sociology*, 115(2), 405-450.
