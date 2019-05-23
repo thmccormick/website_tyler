@@ -168,6 +168,7 @@ https://web.stanford.edu/~arungc/CL.pdf)
 
 
 #### Week 9 Network models in the era of "big data'' (Week of May 27)
++[Slides](https://docs.google.com/presentation/d/1IuaKE4ns3udxUx9j86EWeRAbgkaiWkrgXuexkKy8JTs/edit?usp=sharing)
 + Class readings:
 	+ Butler D. (2007). [Data sharing threatens privacy](http://dx.doi.org/10.1038/449644a). Nature, 449:644-645.
 	+ Slater, M. et al. (2006). [A virtual reprise of the Stanley Milgram obedience experiments](http://dx.doi.org/10.1371/journal.pone.0000039). PLOS ONE, 1:e39.
