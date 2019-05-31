@@ -32,15 +32,15 @@ caption = ""
 
 <img src = "/img/network.png", width = "850">
 
-I'm eager to work with student and postdoctoral collaborators! Thanks for your interest!  If you have further questions after checking out the information below please get in touch.
+I'm eager to work with student and postdoctoral collaborators! Thanks for your interest!  If you have further questions after checking out the information below please send me a message.
 <br>
 <br>
 ## Undergraduate, Masters, and visiting students
-The first step in the process is to take a look around my website to see the kind of work I do and see what you find interesting.  Once you've done that, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZLbfNFG2tADlTe9nbLMB8f4HmBKJ-aWEfWyAZXP-n0FAfAQ/viewform?usp=sf_link) to get in touch.  Please note that availability of positions changes frequently, so when I have a position available I will get in touch with individuals based on interests expressed in the form.  
+The first step in the process is to take a look around my website to see the kind of work I do and see what you find interesting.  Once you've done that, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZLbfNFG2tADlTe9nbLMB8f4HmBKJ-aWEfWyAZXP-n0FAfAQ/viewform?usp=sf_link).  Please note that availability of positions changes frequently, so when I have a position available I will contact individuals based on interests expressed in the form.  
 <br>
 <br>
 ## Doctoral students
-Admissions to the PhD program is coordinated through a central committee.  I'm excited to work with motivated students in many different areas, but students must first be admitted to the PhD program.  If you have specific questions about the admission process please contact the Director of Graduate Studies (information available on the department homepage).  If you're already admitted to the UW program, please send me an email!
+Admissions to the PhD program is coordinated through a central committee, so I unfortunately can't provide any information about the likelihood of a particular student being admitted.  We also don't admit students directly to research groups/labs, so you'll need to be admitted through the department's admission process. If you have specific questions about the admission process or the program requirements at UW please contact the Director of Graduate Studies (information available on the department homepage).  If you have questions related to my work or you're already admitted to the UW program, please send me an email!
 <br>
 <br>
 ## Postdoctoral collaborators
