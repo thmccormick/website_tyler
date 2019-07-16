@@ -5,16 +5,20 @@ date = ""
 weight = 3
 +++
 
++ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). To appear, *Bayesian Analysis*. [code](https://github.com/richardli/LGGM)
+
++ Green, A., McCormick, T. H., & Raftery, A. E. (2019+). Consistency for the tree bootstrap in respondent-driven sampling. To appear, *Biometrika (Miscellanea)*.  (pdf coming soon!)
+
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051) In *Proceedings of the 35th International Conference on Machine Learning (ICML)*.
 
 + Li, Z. R., & McCormick, T. H. (2019+). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). To appear, *Journal of Computational and Graphical Statistics*. [code](https://
 github.com/richardli/EMGS)
 
++ Eadie, G., Huppenkothen, D., Springford, E., & McCormick, T. H. (2019+). [Introducing Bayesian Analysis with m&m’s: an active-learning exercise for undergraduates](https://arxiv.org/abs/1904.11006). To appear, *Journal of Statistics Education*. [code](https://github.com/gweneadie/BayesianMandMs)
+
 + Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2019+). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics*. [code](https://github.com/kunihama/VA-code)
 
 + Westling, T., & McCormick, T. H. (2019+). [Beyond prediction: A framework for inference with variational approximations in mixture models](http://arxiv.org/abs/1510.08151). To appear, *Journal of Computational and Graphical Statistics*. [code](https://github.com/tedwestling/variational_asymptotics)
-
-+ Eadie, G., Huppenkothen, D., Springford, E., & McCormick, T. H. (2019+). [Introducing Bayesian Analysis with m&m’s: an active-learning exercise for undergraduates](https://arxiv.org/abs/1904.11006). To appear, *Journal of Statistics Education*. [code](https://github.com/gweneadie/BayesianMandMs)
 
 + Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). [Multiresolution network models](http://arxiv.org/abs/1608.07618). To appear, *Journal of Computational and Graphical Statistics*. [code](https://github.com/tedwestling/multiresolution_networks) [slides](https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf) 
 
