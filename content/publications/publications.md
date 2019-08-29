@@ -5,6 +5,11 @@ date = ""
 weight = 3
 +++
 
++ Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2019+) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157) (conditionally accepted, *American Economic Review*). 
+	+ [code](https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&sa=D&sntz=1&usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ)  
+	+ [model fitting instructions/pseudocode](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&sa=D&sntz=1&usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ) 
+	+ [implementation instructions and survey instruments](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&sa=D&sntz=1&usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w)
+<br> <br> 
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). To appear, *Bayesian Analysis*. [code](https://github.com/richardli/LGGM)
 
 + Green, A., McCormick, T. H., & Raftery, A. E. (2019+). Consistency for the tree bootstrap in respondent-driven sampling. To appear, *Biometrika (Miscellanea)*.  (pdf coming soon!)
@@ -20,13 +25,18 @@ github.com/richardli/EMGS)
 
 + Westling, T., & McCormick, T. H. (2019+). [Beyond prediction: A framework for inference with variational approximations in mixture models](http://arxiv.org/abs/1510.08151). To appear, *Journal of Computational and Graphical Statistics*. [code](https://github.com/tedwestling/variational_asymptotics)
 
-+ Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018+). [Multiresolution network models](http://arxiv.org/abs/1608.07618). To appear, *Journal of Computational and Graphical Statistics*. [code](https://github.com/tedwestling/multiresolution_networks) [slides](https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf) 
++ Li, Z. R., McCormick, T. H., \& Clark, S. J. (2019+) Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards'', BMC Medicine 2018; 16:56. To appear, *BMC Medicine.*
 
-+ Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+). [Promises and pitfalls of using digital traces for demographic research](http://ssrn.com/abstract=2839585). To appear, *Demography.*
++ Jha, P., Kumar, D., Dikshit, R., Budukh, A., Begum, R., Sati, P., Kolpak, P., Wen, R., Raithatha, S.J., Shah, U., Li, Z.R.,
+Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. & Clark, S. J. (2019) [Automated versus physician assignment of cause of death for verbal autopsies: randomized trial of 9374 deaths in 117 villages in India](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1353-2). *BMC Medicine*, 17, 116.
+
++ Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018). [Multiresolution network models](http://arxiv.org/abs/1608.07618). *Journal of Computational and Graphical Statistics*, , 28, 185-196. [code](https://github.com/tedwestling/multiresolution_networks) [slides](https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf) 
+
++ Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018). [Promises and pitfalls of using digital traces for demographic research](http://ssrn.com/abstract=2839585). *Demography,* 55, 1979-1999.
 			  
 + Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2018+). [Modeling recovery curves with application to Prostatectomy](http://arxiv.org/abs/1504.06964). To appear, *Biostatistics.* [code](https://github.com/fultonwang/recovery_curve)
 			  
-+ Lee, W., Fosdick, B., and McCormick, T. H. (2018+). [Inferring social structure from continuous-time interaction data](http://arxiv.org/abs/1609.02629). Discussion paper. To appear, *Applied Stochastic Models in Business and Industry*. [code](https://github.com/wesleytlee/relational-event-networks)
++ Lee, W., Fosdick, B., and McCormick, T. H. (2018). [Inferring social structure from continuous-time interaction data](http://arxiv.org/abs/1609.02629). Discussion paper. *Applied Stochastic Models in Business and Industry*, 34, 87-104. [code](https://github.com/wesleytlee/relational-event-networks)
 
 + Clark, S., Wakefield, J, McCormick, T. H., and Ross, M. (2018+). [Hyak mortality monitoring system: Innovative sampling and estimation methods](https://arxiv.org/abs/1504.02124). To appear, *Global Health, Epidemiology and Genomics*.	  
 

@@ -4,19 +4,18 @@ subtitle = ""
 date = ""
 weight = 5
 +++
-
+ 
 If you're interested in working with me please see [here](https://thmccormick.github.io/class/students/) for more information.
 <br>
 #### Postdoctoral scholars
-+ [Gwen Eadie](https://www.physics.mcmaster.ca/~eadiegm/cover.html), 2017-
-+ [Tim Thomas](https://timathomas.github.io/), 2017-
-+ [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University
++ [Tim Thomas](https://timathomas.github.io/) (2017-2019), now at the Berkeley Urban Displacement Project.
++ [Gwen Eadie](https://www.physics.mcmaster.ca/~eadiegm/cover.html) (2017-2019), now Assistant Professor of Statistics & Astronomy at the University of Toronto.
++ [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
-#### Ph.D. Students
+#### Ph.D. Students (committee chair)
 + [Zehang (Richard) Li, Ph.D.](http://zehangli.com/) (2018, currently postdoctoral scholar at Yale Biostatistics)
-+ [Mengjie Pan](https://www.stat.washington.edu/~mpan1/), current statistics Ph.D. student
-+ [Austin Schumacher](http://students.washington.edu/aeschuma/), current biostatistics Ph.D. student
-+ [Wesley Lee](https://www.stat.washington.edu/people/wtlee/), current statistics Ph.D. student
++ [Mengjie Pan](https://www.stat.washington.edu/~mpan1/) (2019, currently at Facebook)
++ [Wesley Lee](https://www.stat.washington.edu/people/wtlee/) (2019, currently at Facebook)
 
 
 #### Masters and undergraduate students
@@ -25,6 +24,7 @@ If you're interested in working with me please see [here](https://thmccormick.gi
 
 
 #### Selected courses
++ Stat/CSSS 567 [Social network analysis](https://thmccormick.github.io/class/567_sp19/)
 + Stat/Soc/CSSS 221 [Introduction to statistics for social sciences](https://docs.google.com/document/d/1wLRowIehGM1w-i4l4qaMerYgEhL0wpS__r_fbvwHeww/edit?usp=sharing)
 + Soc 506/CSSS 507 [Quantitative methods in sociology](http://www.stat.washington.edu/~tylermc/soc506sp15/schedule_2015.htm)
 + Stat/Soc/CSSS 321 [Case-based social statistics](http://www.stat.washington.edu/~tylermc/syllabus_321aut13.pdf)
