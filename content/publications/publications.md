@@ -30,7 +30,7 @@ github.com/richardli/EMGS)
 + Jha, P., Kumar, D., Dikshit, R., Budukh, A., Begum, R., Sati, P., Kolpak, P., Wen, R., Raithatha, S.J., Shah, U., Li, Z.R.,
 Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. & Clark, S. J. (2019) [Automated versus physician assignment of cause of death for verbal autopsies: randomized trial of 9374 deaths in 117 villages in India](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1353-2). *BMC Medicine*, 17, 116.
 
-+ Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018). [Multiresolution network models](http://arxiv.org/abs/1608.07618). *Journal of Computational and Graphical Statistics*, , 28, 185-196. [code](https://github.com/tedwestling/multiresolution_networks) [slides](https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf) 
++ Fosdick, B., McCormick, T. H., Murphy, T. B., Ng, T. L., and Westling, T. (2018). [Multiresolution network models](http://arxiv.org/abs/1608.07618). *Journal of Computational and Graphical Statistics*, 28, 185-196. [code](https://github.com/tedwestling/multiresolution_networks) [slides](https://www.newton.ac.uk/files/seminar/20160726133014001-740146.pdf) 
 
 + Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018). [Promises and pitfalls of using digital traces for demographic research](http://ssrn.com/abstract=2839585). *Demography,* 55, 1979-1999.
 			  

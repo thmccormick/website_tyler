@@ -1,0 +1,110 @@
++++
+title = ""
+#date = 2019-02-14T11:05:25-05:00
+draft = false
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = []
+
+# Project summary to display on homepage.
+summary = ""
+
+# Optional image to display on homepage.
+image_preview = ""
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = true
+
+# Does the project detail page use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
+
+<img src = "/img/network.png", width = "850">
+
+## Social networks: data collection and analysis 
+
+
+
+## Cause of death assessment using Verbal Autopsies
+
+
+
+
+
+
+
+## Stat/CSSS 567
+## Spring 2019, University of Washington
+
+[Course schedule](https://thmccormick.github.io/class/567_sp19_schedule/)
+
+### Logistics
+**Instructor:** Tyler McCormick; Email: tylermc@uw.edu; Office Hours: [Sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUd2aTl3eEVCaXJ3fGRlZmF1bHR8MzdkZGUwNWNlZGFiMWQwY2RmMGUwMDljZjc3ZDk3ZDI)<br>
+**TA:** Mengjie Pan (mpan1@uw.edu); Office Hours: Tues 3-4, Weds 1-2 in the CSSS Conference Room, Padelford Hall <br>
+**Course meetings:** T/Th 11:30-12:50pm (Guggenheim 218) & F 1:30-2:20 (Savery 264) <br>
+
+
+### Overview & objectives
+This course is a practical, hands-on introduction to design and analysis of social network data, set against a backdrop of theory from sociology, economics, and other disciplines.
+
+### Course components & grading
+
+Component | % Grade
+---|:---
+Approx 4 HWs | 35
+In-class presentation| 20
+Final project & poster|45
+
+**In-class presentation:**
+In weeks 4-9, Tuesday lectures will present statistical methods and Thursday lectures will be student presentations.  Presentations will either highlight social science papers that use the methods discussed on Tuesday or present more advanced statistical techniques.  Presentations will be either individual or in small groups (2-3 students).  Individual presentations should be approx 20 minutes.  Group presentations should discuss several related papers and should be approx (number of students) times 20 minutes.  Papers for presentation are listed on the course schedule.  Please sign up for papers [here](https://docs.google.com/document/d/1Su_JYou3SbHnY4Oo2h9ASFV99Mf8Na4x0jOTCvmiS5A/edit?usp=sharing).  There are four slots (80 minutes) per class period.
+
+**Final project:**
+The final project should be an in-depth exploration of a question related to social networks using techniques learned during the course.  Projects can also take the form of additional statistical work, but each project must include a substantial data analysis component.  If you have data from your own research, you're welcome to use it.  Group work in teams of 2-3 is highly encouraged.
+
++ Deliverables:
+	+ A poster of quality acceptable for presentation at an academic conference.  Instructions for printing posters will come later in the quarter.  You should plan to have your poster ready to print in about week 9 of the quarter. 
+	+ A GitHub repository containing all the code and data required to reproduce *both* your results and the poster.  If you cannot share your data you should simulate data with similar characteristics.
++ Grading:
+	+ Appropriate and thoughtful use of network analysis techniques.
+	+ Graphics and visual appeal of the poster.
+	+ Contribution to social science question and/or statistical methodology.
+	+ GitHub repo.  As part of grading, someone will download and attempt to run the code in your GitHub repo.  Your code should run beginning to end and be thoroughly documented.
+
+
+**Lab:**
+Hands on practice with network data.  Labs count as part of homeworks. 
+
+
+**Collaborative work:** Working together is highly encouraged!  Each student must, however, turn in their own homework using Github (see below).  Writing must be your own, or appropriately cited.  
+
+**Policies:**
+
++ Only assignments turned in through [GitHub](https://github.com/) will count for credit. More info below.  
++ All empirical assignments must also include code.  More info below.
++ Late assignments accepted with at 10% per day penalty. 
+
+**In-class:** I highly discourage the use of laptops during lecture, as I find them very distracting for me and for other students.  If you need to use your phone or are otherwise feeling distracted, please step outside. 
+
+
+**Submitting code:**
+
++ You must sign up for a Github account.  I recommend applying for an [educational discount](https://education.github.com/).  All assignments must be submitted through Github. You'll walk through this process in detail in the first lab.
++ Your code should stand alone.  More information [here](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/).  For each repo you submit you should include a readme file describing the contents of the repo and thoroughly document your code. As part of grading, someone will attempt to run your code.
++ I suggest following the [tidyverse](https://style.tidyverse.org/) style guide.
+
+**Academic accommodations:**
+To request academic accommodations due to disability, please contact Disabled Student Services, 448 Schmitz Hall, (206) 543-8924.  Myself and your TA will be happy to provide academic accommodations if you have a letter requesting such from Disability Resources for Students (DRS).  Please feel free to see me during office hours to discuss this.
+
+**Related courses:** There are many great social network methods courses.  This course is inspired by a few of them, including Matthew Salganik's [Soc 596](http://www.princeton.edu/~mjs3/soc596_sp08.shtml) at Princeton; James Moody's [Seminar on Social Networks](http://www.soc.duke.edu/~jmoody77/s884/syllabus_s15.pdf) at Duke; and previous UW versions of this course taught by, among others, Peter Hoff & Miruna Petrescu-Prahova.
+
