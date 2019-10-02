@@ -37,7 +37,7 @@ weight = 1
 
 I'm currently an Associate Professor of [Statistics](http://www.stat.washington.edu/) and [Sociology](https://soc.washington.edu/) at the [University of Washington](http://www.uw.edu).  I'm also a core faculty member in the [Center for Statistics and the Social Sciences](http://csss.washington.edu/) and a Senior Data Science Fellow at the [eScience Institute](http://escience.washington.edu/).  
 <br>
-I'm currently the Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20).
+I'm the current Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20).
 <br>
 <br>
 My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.  Please see my [publications](https://thmccormick.github.io/publications/publications/), [software](https://thmccormick.github.io/software/), and [working papers](https://thmccormick.github.io/#working_papers).  More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
