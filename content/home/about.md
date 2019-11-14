@@ -35,10 +35,10 @@ weight = 1
 
 
 
-I'm currently an Associate Professor of [Statistics](http://www.stat.washington.edu/) and [Sociology](https://soc.washington.edu/) at the [University of Washington](http://www.uw.edu).  I'm also a core faculty member in the [Center for Statistics and the Social Sciences](http://csss.washington.edu/) and a Senior Data Science Fellow at the [eScience Institute](http://escience.washington.edu/).  I'm also currently a visiting faculty researcher with [Google PAIR](https://ai.google/research/teams/brain/pair).  
+I'm currently an Associate Professor of [Statistics](http://www.stat.washington.edu/) and [Sociology](https://soc.washington.edu/) at the [University of Washington](http://www.uw.edu).  I'm also a core faculty member in the [Center for Statistics and the Social Sciences](http://csss.washington.edu/) and a Senior Data Science Fellow at the [eScience Institute](http://escience.washington.edu/).  This year I'm also a visiting faculty researcher with [Google PAIR](https://ai.google/research/teams/brain/pair).  
 <br>
 I'm the current Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20).
-<br>
+<br><br>
 My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.  Please see my [publications](https://thmccormick.github.io/publications/publications/), [software](https://thmccormick.github.io/software/), and [working papers](https://thmccormick.github.io/#working_papers).  More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
 <!--
 Go here for more info about a few current projects.-->
