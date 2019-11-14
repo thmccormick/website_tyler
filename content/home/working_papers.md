@@ -8,6 +8,7 @@ weight = 2
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++ 	[Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522)
 + 	[Consistently estimating graph statistics using Aggregated Relational Data](https://arxiv.org/abs/1908.09881)
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136)
 +	[Modeling the social media relationships of Irish politicians using a generalized latent space stochastic blockmodel](https://arxiv.org/abs/1807.06063)

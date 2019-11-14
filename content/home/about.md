@@ -40,6 +40,8 @@ I'm currently an Associate Professor of [Statistics](http://www.stat.washington.
 I'm the current Editor of the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=ucgs20).
 <br>
 <br>
+This year I'm spending time as a visiting facutly member working with [Google PAIR](https://ai.google/research/teams/brain/pair).
+ <br><br>
 My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.  Please see my [publications](https://thmccormick.github.io/publications/publications/), [software](https://thmccormick.github.io/software/), and [working papers](https://thmccormick.github.io/#working_papers).  More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
 <!--
 Go here for more info about a few current projects.-->
