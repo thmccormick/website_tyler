@@ -44,3 +44,5 @@ My research covers a variety of topics in statistics and data science, typically
 Go here for more info about a few current projects.-->
 <br><br>
 **News:** I'm excited and humbled to be a 2019 recipient of the [NIH Director's New Innovator Award](https://commonfund.nih.gov/newinnovator).  
+<br><br>
+I currently have multiple openings for postdoctoral collaborators.  Application instructions are [here](https://forms.stat.ufl.edu/statistics-jobs/entry/6772/).  
