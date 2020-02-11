@@ -12,7 +12,7 @@ weight = 3
 <br> <br> 
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). To appear, *Bayesian Analysis*. [code](https://github.com/richardli/LGGM)
 
-+ Green, A., McCormick, T. H., & Raftery, A. E. (2019+). Consistency for the tree bootstrap in respondent-driven sampling. To appear, *Biometrika (Miscellanea)*.  (pdf coming soon!)
++ Green, A., McCormick, T. H., & Raftery, A. E. (2019+). [Consistency for the tree bootstrap in respondent-driven sampling](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616). To appear, *Biometrika (Miscellanea)*.  
 
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051). In *Proceedings of the 35th International Conference on Machine Learning (ICML)*.
 
