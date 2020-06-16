@@ -13,7 +13,7 @@ If you're interested in working with me please see [here](https://thmccormick.gi
 + [Tsuyoshi Kunihama](https://sites.google.com/site/tsuyoshikunihama/) (2016-2017), now Assistant Professor in the Department of Economics at Kwansei Gakuin University.
 
 #### Ph.D. Students (committee chair)
-+ [Zehang (Richard) Li, Ph.D.](http://zehangli.com/) (2018, currently postdoctoral scholar at Yale Biostatistics)
++ [Zehang (Richard) Li, Ph.D.](http://zehangli.com/) (2018, formerly postdoctoral scholar at Yale Biostatistics, now Assistant Professor at UC Santa Cruz)
 + [Mengjie Pan](https://www.stat.washington.edu/~mpan1/) (2019, currently at Facebook)
 + [Wesley Lee](https://www.stat.washington.edu/people/wtlee/) (2019, currently at Facebook)
 
