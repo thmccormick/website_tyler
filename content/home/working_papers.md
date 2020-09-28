@@ -8,7 +8,9 @@ weight = 2
 ### Technical reports and working papers
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
++	[Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://www.medrxiv.org/content/10.1101/2020.09.10.20190017v2)
 + 	[Post-prediction inference](https://www.biorxiv.org/content/10.1101/2020.01.21.914002v1)
++	[Verbal Autopsy in Civil Registration and Vital Statistics: The Symptom-Cause Information Archive](https://arxiv.org/abs/1910.00405)
 + 	[Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522)
 + 	[Consistently estimating graph statistics using Aggregated Relational Data](https://arxiv.org/abs/1908.09881)
 + 	[Estimating spillovers using imprecisely measured networks](https://arxiv.org/abs/1904.00136) [(code)](https://github.com/thmccormick/spillovers-mismeasured-graphs)
