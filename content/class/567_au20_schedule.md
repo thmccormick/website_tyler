@@ -63,6 +63,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + SAND chapter 3 & 4 
 + Readings:
 	+ Smith, S. (2005). "[Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor](https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj). *American Journal of Sociology*, 111(1), 1-57.
+	+ Lloyd-Smith, J. O., Schreiber, S. J., Kopp, P. E., & Getz, W. M. (2005). [Superspreading and the effect of individual variation on disease emergence](https://www.nature.com/articles/nature04153). *Nature*, 438(7066), 355-359.
 	+ McPherson, M., Smith-Lovin, L., and Brashears, M.E. (2006). [Social isolation in America: Changes in core discussion networks over two decades](https://journals.sagepub.com/doi/pdf/10.1177/000312240607100301?casa_token=C__UbXgoiGUAAAAA:-g-NXKwloNrx0SvznxC1EDBZiX2ZOKJ3DBXIBbqsREIS1etVcqcd4Xq-eM9A4qqmCw2fgKlBRM7Wqw). *American Sociological Review*, 71(3):353-375.
 	+ Granovetter, M. (1973). [The strength of weak ties](https://www.sciencedirect.com/science/article/pii/B9780124424500500250). *American Journal of Sociology*, 78(6), 1360-1380.
 	+ Centola, D., & Macy, M. (2007). [Complex contagions and the weakness of long ties](https://www.jstor.org/stable/pdf/10.1086/521848.pdf?casa_token=cGAVAX2u2RsAAAAA:LW6m-mbhqMf5tqOH4BhMQNNLyTKh0f9P-uzs-uWYWs0dPxv2Unn5s77QSATA7aUL-b8ndEJG-jHEV_ToN-rOJjZWRlr-Nm5QHWDo23E1JcpXa8tfoqLi). *American Journal of Sociology*, 113(3), 702-734.
@@ -160,11 +161,11 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: Exploring missing data & egocentric graphs
 
 
-#### Week 8 Network models in the era of "big data'' (Week of Nov 23)
+#### Week 8 No class (Week of Nov 23)
 + No class; holiday.
 
 
-#### Week 9 (Week of Nov 30)
+#### Week 9 Network models in the era of "big data'' (Week of Nov 30)
 + [Slides]()
 + Class readings:
 	+ Butler D. (2007). [Data sharing threatens privacy](http://dx.doi.org/10.1038/449644a). Nature, 449:644-645.
