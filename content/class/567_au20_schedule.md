@@ -45,7 +45,7 @@ caption = ""
  
 
 #### Week 1 Overview & introductions (Week of Sept 28)
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1kYtuWBN6O3iaM8V1MbRL5ye_kfwr2AONMYVVjpKZ4fA/edit?usp=sharing)
 + SAND chapter 1 & 2
 + Readings:
 	+ Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892). Science, 323(5916), 892-895.
@@ -72,8 +72,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 	+ McPherson, Miller, Lynn Smith-Lovin, and James M. Cook. 2001. ‘‘[Birds of a
 	Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.415).’’ *Annual Review of Sociology* 27:415-44
 	+ Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). [The value of reputation on eBay: A controlled experiment](http://dx.doi.org/10.1007/s10683-006-4309-2). Experimental Economics, 9:79-101.
-+ Lab: Introduction to RStudio & Github, SANDr chapter 1 
-+ Lab: SANDr chapter 2 & 3 (Graphs & Visualizing graphs)
++ Lab: Introduction to RStudio & Github, SANDr chapter 2 & 3 (Graphs & Visualizing graphs)
 
 
 #### Week 3 Modeling connections (Week of Oct 12) 
