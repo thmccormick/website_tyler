@@ -32,9 +32,11 @@ caption = ""
 
 
 ## Stat/CSSS 567
-## Spring 2019, University of Washington
+## Fall 2020, University of Washington
 
-[Main page](https://thmccormick.github.io/class/567_sp19/)
+[Main page](https://thmccormick.github.io/class/567_au20/)
+
+[Discussion board](http://www.piazza.com/washington/fall2020/csss567)
 
 **Textbooks:** Kolaczyk, Eric D. 2009. *Statistical Analysis of Network Data* (SAND).  and Kolaczyk, Eric D. and Csárdi, G. 2014. *Statistical Analysis of Network Data* (SANDr).  Both are available as pdf from the UW Library website.
 
@@ -43,7 +45,7 @@ caption = ""
  
 
 #### Week 1 Overview & introductions (Week of Sept 28)
-+ [Slides](https://docs.google.com/presentation/d/17f22NrGLs0BcbW6CPqJ4azut0s4c-E9txxNm2GSh4G8/edit?usp=sharing)
++ [Slides]()
 + SAND chapter 1 & 2
 + Readings:
 	+ Borgatti, S. P., Mehra, A., Brass, D. J., & Labianca, G. (2009). [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892). Science, 323(5916), 892-895.
@@ -54,10 +56,10 @@ research](https://www.sciencedirect.com/science/article/pii/S037887330500016X). 
 	+ Butts, C. (2003). [Network inference, error and informant (in)accuracy: a Bayesian
 approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). *Social Networks*, 25:2:103-140.
 	+ Shalizi, C. R., & Thomas, A. C. (2011). [Homophily and contagion are generically confounded in observational social network studies](https://journals.sagepub.com/doi/pdf/10.1177/0049124111404820?casa_token=veVI9RKPQkcAAAAA:nruKYkLoX_pNpsLpcoY-pdNp04rz-5uAv9WDmNjf12K2I1Dc1Jokv2GsWMFaSYaZidtwEx9NFcL9OQ). *Sociological methods & research*, 40(2), 211-239.
-+ Lab: Introduction to RStudio & Github, SANDr chapter 1 
++ Lab: No lab this week; sign up for Github.
 
 #### Week 2 Local & global properties of graphs (Week of Oct 5)
-+ [Slides](https://docs.google.com/presentation/d/1k1DbYkkCn3wW52WZ4dJ3r9r4_m2edX2HrL_qxN5s_ec/edit?usp=sharing)
++ [Slides]()
 + SAND chapter 3 & 4 
 + Readings:
 	+ Smith, S. (2005). "[Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor](https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj). *American Journal of Sociology*, 111(1), 1-57.
@@ -69,24 +71,13 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 	+ McPherson, Miller, Lynn Smith-Lovin, and James M. Cook. 2001. ‘‘[Birds of a
 	Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.415).’’ *Annual Review of Sociology* 27:415-44
 	+ Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). [The value of reputation on eBay: A controlled experiment](http://dx.doi.org/10.1007/s10683-006-4309-2). Experimental Economics, 9:79-101.
++ Lab: Introduction to RStudio & Github, SANDr chapter 1 
 + Lab: SANDr chapter 2 & 3 (Graphs & Visualizing graphs)
 
 
 #### Week 3 Modeling connections (Week of Oct 12) 
-+ [Slides](https://docs.google.com/presentation/d/1oBxN0fl8JEzn0Gk0uGSEoeDG01yFjRdnNzfhPNb4tTE/edit?usp=sharing)
-+ SAND chapter 6
-+ Readings:
-	+ D Krackhardt (1988). [Predicting with networks: Nonparametric multiple regression analysis of dyadic data](https://www.sciencedirect.com/science/article/pii/0378873388900044).
-	+ Fafchamps, M., & Gubert, F. (2007). [Risk sharing and network formation](https://www.aeaweb.org/articles?id=10.1257/aer.97.2.75). *American Economic Review*, 97(2), 75-79.
-	+ Marrs, F. W., Fosdick, B. K., & McCormick, T. H. (2017). [Standard errors for regression on relational data with exchangeable errors](https://arxiv.org/abs/1701.05530). arXiv preprint arXiv:1701.05530.
-	+ de Paula, A. (2017) [Econometrics of Network Models](https://www.ucl.ac.uk/~uctpand/econometrics_of_network_models_2017.pdf).
-	+ Chandrasekhar, A., & Lewis, R. (2011). [Econometrics of sampled networks](Econometrics of Sampled Networks - Stanford University
-https://web.stanford.edu/~arungc/CL.pdf)
-+ Lab: SANDr chapter 4 (Descriptive Analysis of Network Graph Characteristics)  
-
-#### Week 4 Modeling connections (Week of Oct 19)
-+ *Note* Homework 1 due April 25.
-+ [Slides](https://docs.google.com/presentation/d/1G7RXSL6Pe60ucSCBdvhm7e416Q5aqjjCLaR5pR1t_Do/edit?usp=sharing)
++ *Note* Homework 1 suggested turn in date around this week.
++ [Slides]()
 + SAND chapter 6
 + Class reading
 	+ Holland, P. W., Laskey, K., and Leinhardt, S. [Stochastic blockmodels: First steps](https://www.sciencedirect.com/science/article/pii/0378873383900217). Social networks 5, no. 2 (1983): 109-137.
@@ -101,8 +92,8 @@ https://web.stanford.edu/~arungc/CL.pdf)
 	+ Airoldi, E. M., Blei, D. M., Fienberg, S. E., & Xing, E. P. (2008). [Mixed membership stochastic blockmodels](http://www.jmlr.org/papers/v9/airoldi08a.html). Journal of Machine Learning Research, 9(Sep), 1981-2014.
 + Lab: Latent variable models for graphs with *latentnet* 
 
-#### Week 5 Modeling connections (Week of Oct 26)
-+ [Slides](https://docs.google.com/presentation/d/15Hv6K0-JnvwNLGi6_FxhacJqAXJHTtitZSElE0AitQs/edit?usp=sharing)
+#### Week 4 Modeling connections (Week of Oct 26)
++ [Slides]()
 + Class reading
 	+ Robins, G. et al (2006) “[An introduction to exponential random graph (p*) models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000372)” Social Networks p173-191
 	+ Hunter, D. R., Krivitsky, P. N., & Schweinberger, M. (2012). [Computational statistical methods for social network models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697157/). Journal of Computational and Graphical Statistics, 21(4), 856-882.
@@ -116,9 +107,10 @@ https://web.stanford.edu/~arungc/CL.pdf)
 
  
 
-#### Week 6 Peer influence & spillovers (Week of Nov 2)
-+ No class Nov 3; Election day.
-+ [Slides](https://docs.google.com/presentation/d/1dHXb4zv6LUVbvLl6H_2ncV2ZMm1EWWMlIbShgVn6XWc/edit?usp=sharing)
+#### Week 5 Peer influence & spillovers (Week of Nov 2)
++ **No class Nov 3; Election day.**
++ We'll discuss class readings on Thursday and presentation readings will be asynchronous.
++ [Slides]()
 + Class readings:
 	+ Breza, E. (2016). [Field experiments, social networks, and development](https://drive.google.com/file/d/0B1UAQjVUBRNZaGtYYUNzdHFPVnc/view). In *The Oxford Handbook of the Economics of Networks*. Oxford University Press.
 	+ Foster, A. D., & Rosenzweig, M. R. (1995). [Learning by doing and learning from others: Human capital and technical change in agriculture](https://www.jstor.org/stable/pdf/2138708.pdf?casa_token=7c5MmPncLAcAAAAA:FVZY2FHcQzuqTJhvZz9McdTMjwz5vG4dkxVwj87XafSE06ROSCu4Utab4J9blO3TeEr8PYcpI9NUqFXRa3rN0BFNDIt6TtnkiE1nzgJXKCkxhaRC1Q). *Journal of Political Economy*, 103(6), 1176-1209.
@@ -136,8 +128,8 @@ https://web.stanford.edu/~arungc/CL.pdf)
 	+ Carrell, S. E., & Hoekstra, M. L. (2010). [Externalities in the classroom: How children exposed to domestic violence affect everyone's kids](https://www.aeaweb.org/articles?id=10.1257/app.2.1.211). *American Economic Journal: Applied Economics*, 2(1), 211-28.
 + Lab: Hoff (2016). “[Dyadic data analysis with amen](https://arxiv.org/pdf/1506.08237.pdf)”
 
-#### Week 7 Peer influence & spillovers (Week of Nov 10) 
-+ [Slides](https://docs.google.com/presentation/d/1k9wBQoQvCllfrMvRbgulhD5AwAfspppWvrI4K2x9lBQ/edit?usp=sharing)
+#### Week 6 Peer influence & spillovers (Week of Nov 10) 
++ [Slides]()
 + Readings
 	+ Angrist, J. D. (2014). [The perils of peer effects](https://www.sciencedirect.com/science/article/abs/pii/S0927537114000712). *Labour Economics*, 30, 98-108.
 	+ Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From natural variation to optimal policy? The importance of endogenous peer group formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica*, 81(3), 855-882.
@@ -153,8 +145,8 @@ https://web.stanford.edu/~arungc/CL.pdf)
 + Lab: Fitting the linear in means model
 
 
-#### Week 8 Collecting network data (Week of Nov 16)
-+ [Slides](https://docs.google.com/presentation/d/16DSGTBhQ3oE01X-p_Wx1iAmYXfDGbAGlsrPoIIdFgrk/edit?usp=sharing)
+#### Week 7 Collecting network data (Week of Nov 16)
++ [Slides]()
 + SAND chapter 5
 + Class readings
 	+ Breza, E., Chandrasekhar, A. G., McCormick, T. H., & Pan, M. (2017). [Using aggregated relational data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157) (No. w23491). *National Bureau of Economic Research*.
@@ -168,27 +160,25 @@ https://web.stanford.edu/~arungc/CL.pdf)
 + Lab: Exploring missing data & egocentric graphs
 
 
-#### Week 9 Network models in the era of "big data'' (Week of Nov 23)
-+ No class thanksgiving
-+ [Slides](https://docs.google.com/presentation/d/1IuaKE4ns3udxUx9j86EWeRAbgkaiWkrgXuexkKy8JTs/edit?usp=sharing)
+#### Week 8 Network models in the era of "big data'' (Week of Nov 23)
++ No class; holiday.
+
+
+#### Week 9 (Week of Nov 30)
++ [Slides]()
 + Class readings:
 	+ Butler D. (2007). [Data sharing threatens privacy](http://dx.doi.org/10.1038/449644a). Nature, 449:644-645.
 	+ Slater, M. et al. (2006). [A virtual reprise of the Stanley Milgram obedience experiments](http://dx.doi.org/10.1371/journal.pone.0000039). PLOS ONE, 1:e39.
 	+ Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018+). [Promises and pitfalls of using digital traces for demographic research](https://link.springer.com/article/10.1007/s13524-018-0715-2). To appear, *Demography*.
 	+ Goel, S., Watts, D. J., & Goldstein, D. G. (2012, June). [The structure of online diffusion networks](https://dl.acm.org/citation.cfm?id=2229058). In *Proceedings of the 13th ACM conference on electronic commerce* (pp. 623-638). ACM.
 	+ Eagle, N., Pentland, A. S., & Lazer, D. (2009). [Inferring friendship network structure by using mobile phone data](https://www.pnas.org/content/106/36/15274). *Proceedings of the National Academy of Sciences*, 106(36), 15274-15278.
-+ Presentation readings: **No Class on May 30.**  We will do presentations Tuesday, June 4.
-+ Lab: Scrape data using [*rtweet*](https://rtweet.info/).
-
-#### Week 10 (Week of Nov 30)
-+ Presentation readings from ``big data'' readings:
++ Presentation readings:
 	+ Narayanan, A., Shi, E., & Rubinstein, B. I. (2011). [Link prediction by de-anonymization: How we won the kaggle social network challenge](https://arxiv.org/pdf/1102.4374). In The 2011 International Joint Conference on Neural Networks (pp. 1825-1834). IEEE.
 	+ Dodds, P. S., Muhamad, R., and Watts, D. J. (2003). [An experimental study of search in global social networks](http://dx.doi.org/10.1126/science.1081058). Science, 301:827-829
 	+ Salganik, M.J., Dodds, P.S., Watts, D.J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](http://dx.doi.org/10.1126/science.1121066). Science, 311:854-856 (also read supporting online materials).
 	+ Kossinets, G., & Watts, D. J. (2009). [Origins of homophily in an evolving social network](https://www.jstor.org/stable/pdf/10.1086/599247.pdf?casa_token=2y9LjAaHFAAAAAAA:t8ODqKWOPyg7Af53eMB0zS32LxU_pe1VgUgZGy1K-5ZjA-l4yJ8uOoOQuuartWbOYAUR6KDpMkrb92w3619xulnJmW1EcO404mUXF8r-WlZZyK7ATQ). *American Journal of Sociology*, 115(2), 405-450.
-+ Thursday: Final poster session.
-+ No lab.
-+ [Instructions for printing posters](http://depts.washington.edu/csscr/posters/).  **Note:** CSSCR requires that posters be submitted at least one day in advance. 
++ Lab: Scrape data using [*rtweet*](https://rtweet.info/).
 
 
-#### Week 11 (Week of Dec 7)
+#### Week 10 (Week of Dec 7)
++ Virtual poster sessions.
