@@ -75,30 +75,46 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: Introduction to RStudio & Github, SANDr chapter 2 & 3 (Graphs & Visualizing graphs)
 
 
-#### Week 3 Modeling connections (Week of Oct 12) 
-+ *Note* Homework 1 suggested turn in date around this week.
+#### Week 3 Modeling connections (overview/SBM) (Week of Oct 12) 
 + [Slides]()
 + SAND chapter 6
 + Class reading
+	+ D Krackhardt (1988). [Predicting with networks: Nonparametric multiple regression analysis of dyadic data](https://www.sciencedirect.com/science/article/pii/0378873388900044).
+	+ Fafchamps, M., & Gubert, F. (2007). [Risk sharing and network formation](https://www.aeaweb.org/articles?id=10.1257/aer.97.2.75). *American Economic Review*, 97(2), 75-79.
 	+ Holland, P. W., Laskey, K., and Leinhardt, S. [Stochastic blockmodels: First steps](https://www.sciencedirect.com/science/article/pii/0378873383900217). Social networks 5, no. 2 (1983): 109-137.
 	+ Snijders, T., and K. Nowicki. (1997) [Estimation and prediction for stochastic blockmodels for graphs with latent block structure](https://link.springer.com/article/10.1007/s003579900004). *Journal of Classification* 14(1), 75-100.
+	+ Airoldi, E. M., Blei, D. M., Fienberg, S. E., & Xing, E. P. (2008). [Mixed membership stochastic blockmodels](http://www.jmlr.org/papers/v9/airoldi08a.html). Journal of Machine Learning Research, 9(Sep), 1981-2014.
+	+ Rohe, K., Chatterjee, S., & Yu, B. (2011). Spectral clustering and the high-dimensional stochastic blockmodel. The Annals of Statistics, 39(4), 1878-1915.
+	+ Chandrasekhar, A., & Lewis, R. (2011). [Econometrics of sampled networks](https://web.stanford.edu/~arungc/CL.pdf)
+		
+
+#### Week 4 Modeling connections (latent distance models) (Week of Oct 19)
++ [Slides]()
++ SAND chapter 6
++ Class reading
 	+ Hoff, P. D., Raftery, A. E., & Handcock, M. S. (2002). [Latent space approaches to social network analysis](https://amstat.tandfonline.com/doi/abs/10.1198/016214502388618906?casa_token=JqrvNUHREccAAAAA:ute3MISdlJT06JAD6a5WVDDWZ7QlEUuSZGoy-_du5rSkAFQAelVoCVuuW5riUztR11tjorKvkFXL3A). *Journal of the American Statistical Association*, 97(460), 1090-1098.
 	+ Hoff, P. D. (2005). [Bilinear mixed-effects models for dyadic data](https://amstat.tandfonline.com/doi/abs/10.1198/016214504000001015?casa_token=tYI9wu9ugGUAAAAA:hkaCPZPD8triU8gix7AT-aX3YKPLO2T79dm1264nFmbzXy5ZwW0BriUEk70Qtu2TyxDYKYAWQnMGVw#.XJPI8lNKjBI). *Journal of the American Statistical Association*, 100(469), 286-295.
 	+ Hoff, P. (2008). [Modeling homophily and stochastic equivalence in symmetric relational data](http://papers.nips.cc/paper/3294-modeling-homophily-and-stochastic-equivalence-in-symmetric-relational-data). In *Advances in Neural Information Processing Systems* (pp. 657-664).
-+ Presentation reading:
- 	+ Fosdick, B. K., & Hoff, P. D. (2015). [Testing and modeling dependencies between a network and nodal attributes](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1008697?casa_token=G_VykZ_JAKcAAAAA:EyZWCMC5VdrY5b_icuEhFX3jR9CxCyQE_nZeC71i7G78Dd6uk1P9wZi_AzIfvq3sMU0KA3_Z3iVkNg). *Journal of the American Statistical Association*, 110(511), 1047-1056.
++ Presentation reading
+	+ Airoldi, E. M., Costa, T. B., & Chan, S. H. (2013). [Stochastic blockmodel approximation of a graphon: Theory and consistent estimation](http://papers.nips.cc/paper/5047-stochastic-blockmodel-approximation-of-a-graphon-theory-and-consistent-estimation.pdf). In *Advances in Neural Information Processing Systems* (pp. 692-700). *Note*: This is a more technical reading.
+	+ de Paula, A. (2017) [Econometrics of Network Models](https://www.ucl.ac.uk/~uctpand/econometrics_of_network_models_2017.pdf).
+	+ Fosdick, B. K., & Hoff, P. D. (2015). [Testing and modeling dependencies between a network and nodal attributes](https://www.tandfonline.com/doi/abs/10.1080/01621459.2015.1008697?casa_token=G_VykZ_JAKcAAAAA:EyZWCMC5VdrY5b_icuEhFX3jR9CxCyQE_nZeC71i7G78Dd6uk1P9wZi_AzIfvq3sMU0KA3_Z3iVkNg). *Journal of the American Statistical Association*, 110(511), 1047-1056.
 	+ Ward, M. D., Siverson, R. M., & Cao, X. (2007). [Disputes, democracies, and dependencies: A reexamination of the Kantian peace](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2007.00269.x). *American Journal of Political Science*, 51(3), 583-601.
 	+ Barberá, P. (2015). [Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](https://www.cambridge.org/core/journals/political-analysis/article/birds-of-the-same-feather-tweet-together-bayesian-ideal-point-estimation-using-twitter-data/91E37205F69AEA32EF27F12563DC2A0A). *Political Analysis*, 23(1), 76-91.
-	+ Airoldi, E. M., Blei, D. M., Fienberg, S. E., & Xing, E. P. (2008). [Mixed membership stochastic blockmodels](http://www.jmlr.org/papers/v9/airoldi08a.html). Journal of Machine Learning Research, 9(Sep), 1981-2014.
 + Lab: Latent variable models for graphs with *latentnet* 
 
-#### Week 4 Modeling connections (Week of Oct 26)
+
+
+#### Week 5 Modeling connections (ERGMs) (Week of Oct 26)
 + [Slides]()
 + Class reading
 	+ Robins, G. et al (2006) “[An introduction to exponential random graph (p*) models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000372)” Social Networks p173-191
 	+ Hunter, D. R., Krivitsky, P. N., & Schweinberger, M. (2012). [Computational statistical methods for social network models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697157/). Journal of Computational and Graphical Statistics, 21(4), 856-882.
+	+ Snijders, Tom AB, Philippa E. Pattison, Garry L. Robins, and Mark S. Handcock. [New specifications for exponential random graph models](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9531.2006.00176.x?casa_token=EK4vgK7QKiIAAAAA:0FN7PIqpeE6pR1R8Yw1vblTdhyQyXJ2GHfudUsUvng6FiQmLc7exnyJMuvkd2RSjeJP5kM989HJ3Eg). *Sociological methodology* 36, no. 1 (2006): 99-153.
+	+ Robins, G., Snijders, T., Wang, P., Handcock, M., & Pattison, P. (2007). [Recent developments in exponential random graph (p*) models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000384?casa_token=V_7BMwLt5_oAAAAA:xqnQ4SWbDf__gc4n1a8ae3vEVHD0nnBOh35aR45RoZgK6lVrIgqQLbK2xPyK9pb4T3wC4Obg). *Social networks*, 29(2), 192-215.
+	+ Hunter, D. R., Handcock, M. S., Butts, C. T., Goodreau, S. M., & Morris, M. (2008). [ergm: A package to fit, simulate and diagnose exponential-family models for networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743438/). *Journal of statistical software*, 24(3).
 + Presentation reading
- 	+ Steven M. Goodreau, James A. Kitts and Martina Morris, "[Birds of a Feather, Or Friend of a Friend?: Using Exponential Random Graph Models to Investigate Adolescent Social Networks](http://dx.doi.org/10.1353/dem.0.0045)", Demography 46 (2009): 103--125
+	+ Steven M. Goodreau, James A. Kitts and Martina Morris, "[Birds of a Feather, Or Friend of a Friend?: Using Exponential Random Graph Models to Investigate Adolescent Social Networks](http://dx.doi.org/10.1353/dem.0.0045)", Demography 46 (2009): 103--125
  	+ Schweinberger, M. (2011). [Instability, sensitivity, and degeneracy of discrete exponential families](https://www.tandfonline.com/doi/pdf/10.1198/jasa.2011.tm10747?casa_token=TmWjfZ5tS8oAAAAA:hVu1S_m4A9XzPC35RAkJCLCDFynEv9TbIf1AYSOrZEmlDUF_wtDFgauKOBKyILwfORDg6wkUeBt_yA). *Journal of the American Statistical Association*, 106(496), 1361-1370.  *Note*: This is a more technical reading.
 	+ Shalizi, C. R., & Rinaldo, A. (2013). [Consistency under sampling of exponential random graph models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498414/). *Annals of Statistics*, 41(2), 508. *Note*: This is a more technical reading.
 	+ Mouw, T., & Entwisle, B. (2006). [Residential segregation and interracial friendship in schools](https://www.jstor.org/stable/pdf/10.1086/506415.pdf?casa_token=mLKLA4FwpxcAAAAA:ij-xIBnuqM4Boi1Nwe436HQ5QZyyreeCS-eZN6S8vu0KHFAVU7m5u4u0JXOKpTdIWNw2heSPGe1CTNQZ6N3i0Ezm5axLIh-7HXOvbRnwHfyH91YyEQ). *American Journal of Sociology*, 112(2), 394-441.
@@ -128,7 +144,8 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 	+ Carrell, S. E., & Hoekstra, M. L. (2010). [Externalities in the classroom: How children exposed to domestic violence affect everyone's kids](https://www.aeaweb.org/articles?id=10.1257/app.2.1.211). *American Economic Journal: Applied Economics*, 2(1), 211-28.
 + Lab: Hoff (2016). “[Dyadic data analysis with amen](https://arxiv.org/pdf/1506.08237.pdf)”
 
-#### Week 6 Peer influence & spillovers (Week of Nov 10) 
+
+#### Week 6 Peer influence & spillovers (Week of Nov 9) 
 + [Slides]()
 + Readings
 	+ Angrist, J. D. (2014). [The perils of peer effects](https://www.sciencedirect.com/science/article/abs/pii/S0927537114000712). *Labour Economics*, 30, 98-108.
@@ -158,6 +175,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 	+ Mouw, T., & Verdery, A. M. (2012). [Network sampling with memory: a proposal for more efficient sampling from social networks](https://journals.sagepub.com/doi/full/10.1177/0081175012461248). *Sociological Methodology*, 42(1), 206-256.
 	+ David C. Bell, Benedetta Belli-McQueen, and Ali Haider. [Partner Naming and Forgetting: Recall of Network Members](https://www.sciencedirect.com/science/article/pii/S0378873306000554). *Social Networks*, 29(2):279–299, 2007. 
 + Lab: Exploring missing data & egocentric graphs
+
 
 
 #### Week 8 No class (Week of Nov 23)
