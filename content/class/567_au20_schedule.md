@@ -59,7 +59,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: No lab this week; sign up for Github.
 
 #### Week 2 Local & global properties of graphs (Week of Oct 5)
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1_A29c_FJwupi0YjQuiAH9I60q-9iBfg2UAmZsffk3xw/edit?usp=sharing)
 + SAND chapter 3 & 4 
 + Readings:
 	+ Smith, S. (2005). "[Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor](https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj). *American Journal of Sociology*, 111(1), 1-57.
