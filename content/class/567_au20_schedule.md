@@ -123,7 +123,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
  
 
-#### Week 5 Peer influence & spillovers (Week of Nov 2)
+#### Week 6 Peer influence & spillovers (Week of Nov 2)
 + **No class Nov 3; Election day.**
 + We'll discuss class readings on Thursday and presentation readings will be asynchronous.
 + [Slides]()
@@ -145,7 +145,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: Hoff (2016). “[Dyadic data analysis with amen](https://arxiv.org/pdf/1506.08237.pdf)”
 
 
-#### Week 6 Peer influence & spillovers (Week of Nov 9) 
+#### Week 7 Peer influence & spillovers (Week of Nov 9) 
 + [Slides]()
 + Readings
 	+ Angrist, J. D. (2014). [The perils of peer effects](https://www.sciencedirect.com/science/article/abs/pii/S0927537114000712). *Labour Economics*, 30, 98-108.
@@ -162,7 +162,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: Fitting the linear in means model
 
 
-#### Week 7 Collecting network data (Week of Nov 16)
+#### Week 8 Collecting network data (Week of Nov 16)
 + [Slides]()
 + SAND chapter 5
 + Class readings
@@ -178,11 +178,11 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 
-#### Week 8 No class (Week of Nov 23)
+#### Week 9 No class (Week of Nov 23)
 + No class; holiday.
 
 
-#### Week 9 Network models in the era of "big data'' (Week of Nov 30)
+#### Week 10 Network models in the era of "big data'' (Week of Nov 30)
 + [Slides]()
 + Class readings:
 	+ Butler D. (2007). [Data sharing threatens privacy](http://dx.doi.org/10.1038/449644a). Nature, 449:644-645.
@@ -198,5 +198,5 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + Lab: Scrape data using [*rtweet*](https://rtweet.info/).
 
 
-#### Week 10 (Week of Dec 7)
+#### Week 11 (Week of Dec 7)
 + Virtual poster sessions.
