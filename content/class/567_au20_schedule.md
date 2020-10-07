@@ -62,7 +62,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 + [Slides](https://docs.google.com/presentation/d/1_A29c_FJwupi0YjQuiAH9I60q-9iBfg2UAmZsffk3xw/edit?usp=sharing)
 + SAND chapter 3 & 4 
 + Readings:
-	+ Smith, S. (2005). "[Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor](https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj). *American Journal of Sociology*, 111(1), 1-57.
+	+ Smith, S. (2005). ["Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor](https://www.jstor.org/stable/pdf/10.1086/428814.pdf?casa_token=6v7XlxCtw34AAAAA:6sfa6kOGwfuAcGI_-sMY_8g42SJ-Dg4LPoeG98YloHwf9thJpH5j88nJDeTd_eoMw5hzZ57BpsAUOLpYf1sZnWlMgC7BEyzTCfuhhFyyDfMNJEAcpsnj). *American Journal of Sociology*, 111(1), 1-57.
 	+ Lloyd-Smith, J. O., Schreiber, S. J., Kopp, P. E., & Getz, W. M. (2005). [Superspreading and the effect of individual variation on disease emergence](https://www.nature.com/articles/nature04153). *Nature*, 438(7066), 355-359.
 	+ McPherson, M., Smith-Lovin, L., and Brashears, M.E. (2006). [Social isolation in America: Changes in core discussion networks over two decades](https://journals.sagepub.com/doi/pdf/10.1177/000312240607100301?casa_token=C__UbXgoiGUAAAAA:-g-NXKwloNrx0SvznxC1EDBZiX2ZOKJ3DBXIBbqsREIS1etVcqcd4Xq-eM9A4qqmCw2fgKlBRM7Wqw). *American Sociological Review*, 71(3):353-375.
 	+ Granovetter, M. (1973). [The strength of weak ties](https://www.sciencedirect.com/science/article/pii/B9780124424500500250). *American Journal of Sociology*, 78(6), 1360-1380.
@@ -72,7 +72,8 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 	+ McPherson, Miller, Lynn Smith-Lovin, and James M. Cook. 2001. ‘‘[Birds of a
 	Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.415).’’ *Annual Review of Sociology* 27:415-44
 	+ Resnick, P., Zeckhauser, R., Swanson, J., and Lockwood, K. (2006). [The value of reputation on eBay: A controlled experiment](http://dx.doi.org/10.1007/s10683-006-4309-2). Experimental Economics, 9:79-101.
-+ Lab: Introduction to RStudio & Github, SANDr chapter 2 & 3 (Graphs & Visualizing graphs)
++ Lab: [Github practice](https://classroom.github.com/a/DNyDzU23) [Lab 1](https://classroom.github.com/a/MLSuj62-): SANDr chapter 2 & 3 (Graphs & Visualizing graphs)
++ [Homework 1](https://classroom.github.com/a/-PO-OT25)
 
 
 #### Week 3 Modeling connections (overview/SBM) (Week of Oct 12) 
