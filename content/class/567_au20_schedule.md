@@ -77,7 +77,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 3 Modeling connections (overview/SBM) (Week of Oct 12) 
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1Xa5Fo2hImaeRjwDIFO2OBLo0Br58PiVT0SxIzGTneKE/edit?usp=sharing)
 + SAND chapter 6
 + Class reading
 	+ D Krackhardt (1988). [Predicting with networks: Nonparametric multiple regression analysis of dyadic data](https://www.sciencedirect.com/science/article/pii/0378873388900044).
