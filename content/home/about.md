@@ -41,7 +41,7 @@ I'm the current Editor of the [Journal of Computational and Graphical Statistics
 <br><br>
 My research covers a variety of topics in statistics and data science, typically motivated by scientific questions in global health, economics, demography, and sociology.  Please see my [publications](https://thmccormick.github.io/publications/publications/), [software](https://thmccormick.github.io/software/), and [working papers](https://thmccormick.github.io/#working_papers).  More information about OpenVA, our suite of open tools to manage and analyze verbal autopsy surveys, is available [here](http://openva.net/).
 
-Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis.
+Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for Stat/CSSS 567, Social network analysis, offered Autumn 2020.
 <!--
 Go here for more info about a few current projects.-->
 
