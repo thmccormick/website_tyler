@@ -90,7 +90,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 		
 
 #### Week 4 Modeling connections (latent distance models) (Week of Oct 19)
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1i67CYiUDfnosv-g6tg38Z7QW2r7Gf0OEDj5jWq6As6s/edit?usp=sharing)
 + SAND chapter 6
 + Class reading
 	+ Hoff, P. D., Raftery, A. E., & Handcock, M. S. (2002). [Latent space approaches to social network analysis](https://amstat.tandfonline.com/doi/abs/10.1198/016214502388618906?casa_token=JqrvNUHREccAAAAA:ute3MISdlJT06JAD6a5WVDDWZ7QlEUuSZGoy-_du5rSkAFQAelVoCVuuW5riUztR11tjorKvkFXL3A). *Journal of the American Statistical Association*, 97(460), 1090-1098.
@@ -107,7 +107,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 5 Modeling connections (ERGMs) (Week of Oct 26)
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1i67CYiUDfnosv-g6tg38Z7QW2r7Gf0OEDj5jWq6As6s/edit?usp=sharing)
 + Class reading
 	+ Robins, G. et al (2006) “[An introduction to exponential random graph (p*) models for social networks](https://www.sciencedirect.com/science/article/pii/S0378873306000372)” Social Networks p173-191
 	+ Hunter, D. R., Krivitsky, P. N., & Schweinberger, M. (2012). [Computational statistical methods for social network models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3697157/). Journal of Computational and Graphical Statistics, 21(4), 856-882.
