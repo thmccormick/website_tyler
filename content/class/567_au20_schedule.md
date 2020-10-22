@@ -77,7 +77,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 3 Modeling connections (overview/SBM) (Week of Oct 12) 
-+ [Slides](https://docs.google.com/presentation/d/1Xa5Fo2hImaeRjwDIFO2OBLo0Br58PiVT0SxIzGTneKE/edit?usp=sharing)
++ [Slides](https://docs.google.com/presentation/d/1i67CYiUDfnosv-g6tg38Z7QW2r7Gf0OEDj5jWq6As6s/edit?usp=sharing)
 + SAND chapter 6
 + Class reading
 	+ D Krackhardt (1988). [Predicting with networks: Nonparametric multiple regression analysis of dyadic data](https://www.sciencedirect.com/science/article/pii/0378873388900044).
@@ -92,6 +92,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 #### Week 4 Modeling connections (latent distance models) (Week of Oct 19)
 + [Slides](https://docs.google.com/presentation/d/1i67CYiUDfnosv-g6tg38Z7QW2r7Gf0OEDj5jWq6As6s/edit?usp=sharing)
 + SAND chapter 6
++ [Homework 2](https://docs.google.com/presentation/d/1O_FNS-KDJ3A-Ly1CCm0uo7DPWQsrheGE9xmR3isjjO8/edit?usp=sharing)
 + Class reading
 	+ Hoff, P. D., Raftery, A. E., & Handcock, M. S. (2002). [Latent space approaches to social network analysis](https://amstat.tandfonline.com/doi/abs/10.1198/016214502388618906?casa_token=JqrvNUHREccAAAAA:ute3MISdlJT06JAD6a5WVDDWZ7QlEUuSZGoy-_du5rSkAFQAelVoCVuuW5riUztR11tjorKvkFXL3A). *Journal of the American Statistical Association*, 97(460), 1090-1098.
 	+ Hoff, P. D. (2005). [Bilinear mixed-effects models for dyadic data](https://amstat.tandfonline.com/doi/abs/10.1198/016214504000001015?casa_token=tYI9wu9ugGUAAAAA:hkaCPZPD8triU8gix7AT-aX3YKPLO2T79dm1264nFmbzXy5ZwW0BriUEk70Qtu2TyxDYKYAWQnMGVw#.XJPI8lNKjBI). *Journal of the American Statistical Association*, 100(469), 286-295.
