@@ -128,7 +128,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 #### Week 6 Peer influence & spillovers (Week of Nov 2)
 + **No class Nov 3; Election day.**
 + We'll discuss class readings on Thursday and presentation readings will be asynchronous.
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1AWaQ4yeaTfAe9BPfWpg7RZtjQlKc0Hxs3SrMbh62OGc/edit?usp=sharing)
 + Class readings:
 	+ Breza, E. (2016). [Field experiments, social networks, and development](https://drive.google.com/file/d/0B1UAQjVUBRNZaGtYYUNzdHFPVnc/view). In *The Oxford Handbook of the Economics of Networks*. Oxford University Press.
 	+ Foster, A. D., & Rosenzweig, M. R. (1995). [Learning by doing and learning from others: Human capital and technical change in agriculture](https://www.jstor.org/stable/pdf/2138708.pdf?casa_token=7c5MmPncLAcAAAAA:FVZY2FHcQzuqTJhvZz9McdTMjwz5vG4dkxVwj87XafSE06ROSCu4Utab4J9blO3TeEr8PYcpI9NUqFXRa3rN0BFNDIt6TtnkiE1nzgJXKCkxhaRC1Q). *Journal of Political Economy*, 103(6), 1176-1209.
