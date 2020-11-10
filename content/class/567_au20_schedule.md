@@ -148,7 +148,8 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 7 Peer influence & spillovers (Week of Nov 9) 
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1hojbNIjUcdZ0fO3XkQSX9tXYpMBxZ7tU-MpS6IlwJVA/edit?usp=sharing)
++ [Homework 3](https://docs.google.com/presentation/d/1hojbNIjUcdZ0fO3XkQSX9tXYpMBxZ7tU-MpS6IlwJVA/edit?usp=sharing) Note: I combined HW 3 and HW 4, so this is the last one!
 + Readings
 	+ Angrist, J. D. (2014). [The perils of peer effects](https://www.sciencedirect.com/science/article/abs/pii/S0927537114000712). *Labour Economics*, 30, 98-108.
 	+ Carrell, S. E., Sacerdote, B. I., & West, J. E. (2013). [From natural variation to optimal policy? The importance of endogenous peer group formation](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10168). *Econometrica*, 81(3), 855-882.
