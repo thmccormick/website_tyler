@@ -166,7 +166,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 8 Collecting network data (Week of Nov 16)
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1Qsa8IeKIIFOMVoY8BD3XFtN52I4CqFf138Brgsvo8Vg/edit?usp=sharing)
 + SAND chapter 5
 + Class readings
 	+ Breza, E., Chandrasekhar, A. G., McCormick, T. H., & Pan, M. (2017). [Using aggregated relational data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157) (No. w23491). *National Bureau of Economic Research*.
