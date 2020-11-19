@@ -5,7 +5,10 @@ date = ""
 weight = 3
 +++
 
-+ Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020+) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157) (To appear, *American Economic Review*). 
++ Wang, S., McCormick, T. H., and Leek, J. (2020+) [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). (To appear, *Proceedings of the National Academy of Sciences (USA)*).
+
+
++ Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020+) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157). (To appear, *American Economic Review*). 
 	+ [code](https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&sa=D&sntz=1&usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ)  
 	+ [model fitting instructions/pseudocode](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&sa=D&sntz=1&usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ) 
 	+ [implementation instructions and survey instruments](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&sa=D&sntz=1&usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w)
