@@ -186,7 +186,7 @@ approach](https://www.sciencedirect.com/science/article/pii/S0378873302000382). 
 
 
 #### Week 10 Network models in the era of "big data'' (Week of Nov 30)
-+ [Slides]()
++ [Slides](https://docs.google.com/presentation/d/1aqS4BSbSnKfxkMgF-IUUfI82qJovlYeJApnv1nLDmH8/edit?usp=sharing)
 + Class readings:
 	+ Butler D. (2007). [Data sharing threatens privacy](http://dx.doi.org/10.1038/449644a). Nature, 449:644-645.
 	+ Slater, M. et al. (2006). [A virtual reprise of the Stanley Milgram obedience experiments](http://dx.doi.org/10.1371/journal.pone.0000039). PLOS ONE, 1:e39.
