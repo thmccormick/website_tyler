@@ -11,8 +11,8 @@ weight = 3
 + Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157). *American Economic Review,* 110, 8.
     + [code](https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&sa=D&sntz=1&usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ)  
     + [model fitting instructions/pseudocode](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&sa=D&sntz=1&usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ) 
-    + [implementation instructions and survey instruments](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&sa=D&sntz=1&usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w).  
-
+    + [implementation instructions and survey instruments](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&sa=D&sntz=1&usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w).
+<br> <br> 
 + McCormick, T. H. (2020) [The Network Scale-up Method](https://books.google.com/books?id=J-MJEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false). *Oxford Handbook of Social Networks*.
 
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2020).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). *Bayesian Analysis,* 15, 3. [code](https://github.com/richardli/LGGM)
