@@ -20,7 +20,7 @@ weight = 3
 + Green, A., McCormick, T. H., & Raftery, A. E. (2020). [Consistency for the tree bootstrap in respondent-driven sampling](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616). *Biometrika (Miscellanea),* 107, 2.  
 
 
-+ Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2020). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics,* 14, 1. [code](https://github.com/kunihama/VA-code)
++ Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2020). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). *Annals of Applied Statistics,* 14, 1. [code](https://github.com/kunihama/VA-code)
 
 
 + Li, Z. R., McCormick, T. H., \& Clark, S. J. (2020) [Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards''](https://pubmed.ncbi.nlm.nih.gov/32213178/), BMC Medicine 2018; 16:56. *BMC Medicine,* 18, 69.
@@ -29,11 +29,13 @@ weight = 3
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051). In *Proceedings of the 35th International Conference on Machine Learning (ICML)*.
 
 
-+ Li, Z. R., & McCormick, T. H. (2019). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). To appear, *Journal of Computational and Graphical Statistics,* 28, 4. [code](https://
++ Li, Z. R., & McCormick, T. H. (2019). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). *Journal of Computational and Graphical Statistics,* 28, 4. [code](https://
 github.com/richardli/EMGS)
 
 
 + Eadie, G., Huppenkothen, D., Springford, E., & McCormick, T. H. (2019). [Introducing Bayesian Analysis with m&m’s: an active-learning exercise for undergraduates](https://arxiv.org/abs/1904.11006). *Journal of Statistics Education,* 27, 2. [code](https://github.com/gweneadie/BayesianMandMs)
+
++ Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2019). [Modeling recovery curves with application to Prostatectomy](http://arxiv.org/abs/1504.06964). *Biostatistics,* 20, 4. [code](https://github.com/fultonwang/recovery_curve)
 
 + Westling, T., & McCormick, T. H. (2019). [Beyond prediction: A framework for inference with variational approximations in mixture models](http://arxiv.org/abs/1510.08151). *Journal of Computational and Graphical Statistics*, 28, 4. [code](https://github.com/tedwestling/variational_asymptotics)
 
@@ -44,11 +46,9 @@ Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. & Clar
 
 + Cesare, N., Lee, H., McCormick, T. H., Spiro, E., and Zagheni, E. (2018). [Promises and pitfalls of using digital traces for demographic research](http://ssrn.com/abstract=2839585). *Demography,* 55, 1979-1999.
 			  
-+ Wang, F., McCormick, T. H., Rudin, C., and Gore, J. (2018+). [Modeling recovery curves with application to Prostatectomy](http://arxiv.org/abs/1504.06964). To appear, *Biostatistics.* [code](https://github.com/fultonwang/recovery_curve)
-			  
 + Lee, W., Fosdick, B., and McCormick, T. H. (2018). [Inferring social structure from continuous-time interaction data](http://arxiv.org/abs/1609.02629). Discussion paper. *Applied Stochastic Models in Business and Industry*, 34, 87-104. [code](https://github.com/wesleytlee/relational-event-networks)
 
-+ Clark, S., Wakefield, J, McCormick, T. H., and Ross, M. (2018+). [Hyak mortality monitoring system: Innovative sampling and estimation methods](https://arxiv.org/abs/1504.02124). To appear, *Global Health, Epidemiology and Genomics*.	  
++ Clark, S., Wakefield, J, McCormick, T. H., and Ross, M. (2018). [Hyak mortality monitoring system: Innovative sampling and estimation methods](https://arxiv.org/abs/1504.02124). *Global Health, Epidemiology and Genomics,* 3, E3.	  
 
 + Salter-Townshend, M. and McCormick, T. H. (2017). [Latent space models for multiview network data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5927604/). *Annals of Applied Statistics*, 11: 1217-1244.	[code](https://www.dropbox.com/s/94b3d8zj2jsxtji/supplement_monks5.pdf?dl=0)
 		
