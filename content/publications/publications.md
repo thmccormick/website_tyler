@@ -7,6 +7,8 @@ weight = 3
 
 + Wang, S., McCormick, T. H., and Leek, J. (2020+) [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). (To appear, *Proceedings of the National Academy of Sciences (USA)*).
 
++ McCormick, T. H. (2020+) [The Network Scale-up Method](https://books.google.com/books?id=J-MJEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false). *Oxford Handbook of Social Networks*.
+
 
 + Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020+) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157). (To appear, *American Economic Review*). 
 	+ [code](https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&sa=D&sntz=1&usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ)  
