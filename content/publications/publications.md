@@ -7,30 +7,35 @@ weight = 3
 
 + Wang, S., McCormick, T. H., and Leek, J. (2020+) [Methods for correcting inference based on outcomes predicted by machine learning](https://www.pnas.org/content/early/2020/11/17/2001238117). (To appear, *Proceedings of the National Academy of Sciences (USA)*).
 
-+ McCormick, T. H. (2020+) [The Network Scale-up Method](https://books.google.com/books?id=J-MJEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false). *Oxford Handbook of Social Networks*.
 
-
-+ Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020+) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157). (To appear, *American Economic Review*). 
++ Breza, E., Chandrasekhar, A. G., McCormick, T. H., and Pan, M. (2020) [Using Aggregated Relational Data to feasibly identify network structure without network data](https://arxiv.org/abs/1703.04157). *American Economic Review,* 110, 8. 
 	+ [code](https://www.google.com/ url?q=https%3A%2F%2Fgithub.com%2FMengjiePan%2FBCMP&sa=D&sntz=1&usg=AFQjCNHiZ-Ep-uQ2oX5Eo5SlKDuEtMoMOQ)  
 	+ [model fitting instructions/pseudocode](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_PseudoCode&sa=D&sntz=1&usg=AFQjCNEDrTdVGutzYUAZtdKt9TJ04R03qQ) 
 	+ [implementation instructions and survey instruments](https://www.google.com/url?q=https%3A%2F%2Fweb.stanford.edu%2F~arungc%2FBCMP_Surveys&sa=D&sntz=1&usg=AFQjCNEPnoPWZQ64o1XurVblMmM-vIY_1w)
 <br> <br> 
-+ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). To appear, *Bayesian Analysis*. [code](https://github.com/richardli/LGGM)
++ McCormick, T. H. (2020) [The Network Scale-up Method](https://books.google.com/books?id=J-MJEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false). *Oxford Handbook of Social Networks*.
 
-+ Green, A., McCormick, T. H., & Raftery, A. E. (2019+). [Consistency for the tree bootstrap in respondent-driven sampling](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616). To appear, *Biometrika (Miscellanea)*.  
++ Li, Z. R., McCormick, T. H., and Clark, S. J. (2019+).[Using Bayesian latent Gaussian graphical models to infer symptom associations in verbal autopsies](https://arxiv.org/abs/1711.00877). *Bayesian Analysis,* 15, 3. [code](https://github.com/richardli/LGGM)
+
++ Green, A., McCormick, T. H., & Raftery, A. E. (2020). [Consistency for the tree bootstrap in respondent-driven sampling](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asz067/5715616). *Biometrika (Miscellanea),* 107, 2.  
+
+
++ Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2020). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics,* 14, 1. [code](https://github.com/kunihama/VA-code)
+
+
++ Li, Z. R., McCormick, T. H., \& Clark, S. J. (2020) [Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards''](https://pubmed.ncbi.nlm.nih.gov/32213178/), BMC Medicine 2018; 16:56. *BMC Medicine,* 18, 69.
+
 
 + Li, Z. R., McCormick, T. H., and Clark, S. J. (2019). [Bayesian Joint Spike-and-Slab Graphical Lasso](https://arxiv.org/abs/1805.07051). In *Proceedings of the 35th International Conference on Machine Learning (ICML)*.
 
-+ Li, Z. R., & McCormick, T. H. (2019+). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). To appear, *Journal of Computational and Graphical Statistics*. [code](https://
+
++ Li, Z. R., & McCormick, T. H. (2019). [An Expectation Conditional Maximization approach for Gaussian graphical models](https://arxiv.org/abs/1709.06970). To appear, *Journal of Computational and Graphical Statistics,* 28, 4. [code](https://
 github.com/richardli/EMGS)
 
-+ Eadie, G., Huppenkothen, D., Springford, E., & McCormick, T. H. (2019+). [Introducing Bayesian Analysis with m&m’s: an active-learning exercise for undergraduates](https://arxiv.org/abs/1904.11006). To appear, *Journal of Statistics Education*. [code](https://github.com/gweneadie/BayesianMandMs)
 
-+ Kunihama, T., Li, Z. R., Clark, S. J., & McCormick, T. H. (2019+). [Bayesian factor models for probabilistic cause of death assessment with verbal autopsies](https://arxiv.org/abs/1803.01327). To appear, *Annals of Applied Statistics*. [code](https://github.com/kunihama/VA-code)
++ Eadie, G., Huppenkothen, D., Springford, E., & McCormick, T. H. (2019). [Introducing Bayesian Analysis with m&m’s: an active-learning exercise for undergraduates](https://arxiv.org/abs/1904.11006). *Journal of Statistics Education,* 27, 2. [code](https://github.com/gweneadie/BayesianMandMs)
 
-+ Westling, T., & McCormick, T. H. (2019+). [Beyond prediction: A framework for inference with variational approximations in mixture models](http://arxiv.org/abs/1510.08151). To appear, *Journal of Computational and Graphical Statistics*. [code](https://github.com/tedwestling/variational_asymptotics)
-
-+ Li, Z. R., McCormick, T. H., \& Clark, S. J. (2019+) Non-confirming Replication of ``Performance of InSilicoVA for Assigning Causes of Death to Verbal Autopsies: Multisite Validation Study using Clinical Diagnostic Gold Standards'', BMC Medicine 2018; 16:56. To appear, *BMC Medicine.*
++ Westling, T., & McCormick, T. H. (2019). [Beyond prediction: A framework for inference with variational approximations in mixture models](http://arxiv.org/abs/1510.08151). *Journal of Computational and Graphical Statistics*, 28, 4. [code](https://github.com/tedwestling/variational_asymptotics)
 
 + Jha, P., Kumar, D., Dikshit, R., Budukh, A., Begum, R., Sati, P., Kolpak, P., Wen, R., Raithatha, S.J., Shah, U., Li, Z.R.,
 Aleksandrowicz, L., Shah, P., Piyasena, K., McCormick, T. H., Gelband, H. & Clark, S. J. (2019) [Automated versus physician assignment of cause of death for verbal autopsies: randomized trial of 9374 deaths in 117 villages in India](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1353-2). *BMC Medicine*, 17, 116.
