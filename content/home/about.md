@@ -45,4 +45,4 @@ Quick [link](https://thmccormick.github.io/class/567_au20) to the homepage for S
 <!--
 Go here for more info about a few current projects.-->
 
-I currently have multiple openings for postdoctoral collaborators.  Application instructions are [here](https://apply.interfolio.com/69075).  Please email me with questions or inquiries.   
+I currently have multiple openings for postdoctoral collaborators.  Please see [here](https://thmccormick.github.io/post/postdoc) for more details.  
