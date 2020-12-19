@@ -25,6 +25,6 @@ The scope of the positions is open.  Potential projects include, but are not lim
 
 Pleas feel free to email Tyler (tyler.h.mccormick@gmail.com) if you're interested and would like to discuss potential projects.  Please see [thmccormick.github.io](http://thmccormick.github.io) for further information about recent work and ongoing projects.      
 
-Apply directly [here](https://apply.interfolio.com/81536)
+Apply directly [here](https://apply.interfolio.com/81536).
 
 Applicants must have a Ph.D. in Statistics, Computer Science, Economics, Sociology, or related field by the start date of the position.  The group values contributions to diversity, equity and inclusion in STEM fields, and to outreach; these can be described in the cover letter.  
