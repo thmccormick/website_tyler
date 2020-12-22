@@ -9,7 +9,7 @@ weight = 2
 Please see [arXiv](https://arxiv.org/find/stat/1/au:+McCormick_T/0/1/0/all/0/1) for the most up to date list of working papers.
 
 +	[Identifying the latent space geometry of network models through analysis
-  of curvature](https://thmccormick.github.io/files/LS_geom_preview.pdf)
+  of curvature](http://arxiv.org/abs/2012.10559)
 +	[Quantifying heterogeneity in SARS-CoV-2 transmission during the lockdown in India](https://www.medrxiv.org/content/10.1101/2020.09.10.20190017v2)
 + 	[Anomaly Detection in Large Scale Networks with Latent Space Models](http://arxiv.org/abs/1911.05522)
 + 	[Consistently estimating graph statistics using Aggregated Relational Data](https://arxiv.org/abs/1908.09881)
